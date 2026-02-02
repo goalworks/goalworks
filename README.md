@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## My name is James.
+Full-Stack JavaScript Developer
+✨ 7 years of hands-on experience ✨
 <!--
 **goalworks/goalworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
